@@ -15,9 +15,6 @@
 # Unrubber Fiber % - Rep Value
 # Rubbed Fiber % - Rep Value
 #-------------------------------------------------------------------------------
-#an unecessary comment for learning the svn merge process
-#a second unnecessary coment
-#and another
 
 class ForceExit(Exception):
     pass
